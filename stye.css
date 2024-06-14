@@ -1,0 +1,15 @@
+header{
+    background-color: white;
+    color: black;
+}
+
+body{
+    background-color: white;
+    color: black;
+}
+
+.titulo-2{
+    color:black;
+    justify-content: center;
+    display: flex;
+}
