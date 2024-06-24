@@ -3,6 +3,14 @@ header{
     color: #036d97;
 }
 
+.cabecalho{
+    color:#036d97;
+    margin-left: 500px;
+    text-align: center;
+    display: flex;
+
+}
+
 .cabecalho-lista-1{
     color:#036d97;
     margin-left:  200px; /*alinhamento a esquerda */
