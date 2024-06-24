@@ -3,6 +3,22 @@ header{
     color: #036d97;
 }
 
+.cabecalho-lista-1{
+    color:#036d97;
+    margin-left:  200px; /*alinhamento a esquerda */
+    padding:40px;/*espaçamento vertical */
+    display: inline-block;
+    justify-content: center;
+}
+
+.cabecalho-lista-2{
+    color:#036d97;
+    margin-left: 200px;
+    padding:40px;
+    display: inline-block;
+    justify-content: center;
+}
+
 body{
     background-color:#ffffff;
     color: black;
