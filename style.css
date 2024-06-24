@@ -8,7 +8,7 @@ header{
     margin-left: 500px;
     text-align: center;
     display: flex;
-    font-size: 15px;
+    font-size: 40px;
 
 }
 
@@ -18,7 +18,7 @@ header{
     padding:40px;/*espaçamento vertical */
     display: inline-block;
     justify-content: center;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .cabecalho-lista-2{
