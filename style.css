@@ -37,3 +37,13 @@ body{
     justify-content: center;
     display: flex;
 }
+
+.paragrafo-1{
+    justify-content : center;
+    text-align: center;
+}
+
+.paragrafo-2{
+    justify-content : center;
+    text-align: center;
+}
