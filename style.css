@@ -5,11 +5,10 @@ header{
 
 .cabecalho{
     color:#000000;
-    margin-left: 400px;
+    margin-left: 600px;
     text-align: center;
     display: flex;
     font-size: 40px;
-    margin-right: 100px;
 }
 
 .cabecalho-lista-1{
