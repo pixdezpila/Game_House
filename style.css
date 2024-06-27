@@ -34,7 +34,6 @@ body{
 }
 
 .titulo-2{
-    background-color: blue;
     color:#000000;
     justify-content: center;
     display: flex;
@@ -42,28 +41,24 @@ body{
 }
 
 .paragrafo-1{
-    background-color: rgb(4, 4, 225);
     justify-content : center;
     text-align: center;
     font-size: 17px;
 }
 
 .titulo-3{
-    background-color: rgb(4, 4, 198);
     color:#000000;
     justify-content: center;
     display: flex;
     font-size: 20px;
 }
 .paragrafo-2{
-    background-color: rgb(4, 4, 176);
     justify-content : center;
     text-align: center;
     font-size: 17px;
 }
 
 .paragrafo-3{
-    background-color: rgb(2, 2, 143);
     justify-content : center;
     text-align: center;
     font-size: 17px;
