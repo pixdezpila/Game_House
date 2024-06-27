@@ -29,7 +29,9 @@ header{
     font-size: 25px;
 }
 
-body{}
+body{
+    background-color: blue;
+}
 
 .titulo-2{
     background-color: blue;
