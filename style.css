@@ -111,6 +111,8 @@ body{
 }
 
 .paragrafo-3{
+    background-color: #000000;
+    color: #ffffff;
     justify-content : center;
     text-align: center;
     font-size: 18px;
