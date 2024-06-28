@@ -59,7 +59,39 @@ body{
 }
 
 .tekken{
-    
+    width: 25%;
+    display: inline;
+    padding: 30px;
+}
+
+.forza{
+    width: 25%;
+    display: inline;
+    padding: 30px;
+}
+
+.elden{
+    width: 25%;
+    display: inline;
+    padding: 30px;
+}
+
+.ea-sports{
+    width: 25%;
+    display: inline;
+    padding: 30px;
+}
+
+.gta-5{
+    width: 25%;
+    display: inline;
+    padding: 30px;
+}
+
+.street-fighter{
+    width: 25%;
+    display: inline;
+    padding: 30px;
 }
 .paragrafo-3{
     justify-content : center;
