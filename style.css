@@ -76,6 +76,13 @@ body{
     padding: 30px;
 }
 
+.preco-1{
+    width: 25%;
+    display: inline-block;
+    margin-left:20px ;
+    margin-right: 40px;
+    text-align: center;
+}
 .ea-sports{
     width: 25%;
     display: inline;
@@ -92,6 +99,14 @@ body{
     width: 35%;
     display: inline;
     padding: 30px;
+}
+
+.preco-2{
+    width: 25%;
+    display: inline-block;
+    margin-left:20px ;
+    margin-right: 40px;
+    text-align: center;
 }
 .paragrafo-3{
     justify-content : center;
